@@ -36,7 +36,7 @@ public class Calculadora {
             System.out.printf("Resultado: %.2f %s %.2f = %.2f%n", numero1, operacao.getSimbolo(), numero2, resultado);
 
         } catch (IllegalArgumentException e) {
-            System.out.println("Erro: " + e.getMessage());
+            System.out.println("Erro de operação: " + e.getMessage());
         } catch (ArithmeticException e) {
             System.out.println("Erro matemático: " + e.getMessage());
         }
