@@ -12,7 +12,7 @@ src/
 ├── Operacao.java                # Enum que representa e interpreta os operadores matemáticos
 └── OperacoesMatematicas.java   # Classe com métodos estáticos para cálculos matemáticos
 ```
-##🚀 **Como Executar**
+## 🚀 **Como Executar**
 1. Clone o repositório:
 
 ```bash
@@ -32,7 +32,7 @@ java Calculadora
 ```
 ---
 
-##🧠 **Funcionalidades**
+## 🧠 **Funcionalidades**
 - Entrada de operador por símbolo: +, -, *, /
 
 - Mensagens amigáveis de erro
@@ -45,7 +45,7 @@ java Calculadora
 
 ---
 
-##💻 **Exemplo de Uso**
+## 💻 **Exemplo de Uso**
 ```rust
 Calculadora em Java
 Operações disponíveis:
@@ -63,7 +63,7 @@ Resultado: 10.00 * 2.00 = 20.00
 
 ---
 
-##📘 **Conceitos Aplicados**
+## 📘 **Conceitos Aplicados**
 - Enumerações (enum) com atributos e métodos
 
 - Métodos estáticos (static)
@@ -76,5 +76,5 @@ Resultado: 10.00 * 2.00 = 20.00
 
 ---
 
-##🤝 **Contribuições**
+## 🤝 **Contribuições**
 Contribuições são bem-vindas! Abra uma Issue ou envie um Pull Request com melhorias ou sugestões.
